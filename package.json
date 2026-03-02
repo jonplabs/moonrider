@@ -78,6 +78,7 @@
     }
   },
   "devDependencies": {
+    "ansi-html-community": "0.0.8",
     "cross-env": "4.0.0",
     "ghpages": "0.0.10",
     "semistandard": "10.0.0",
